@@ -1,0 +1,15 @@
+E:\Coding\guessing-game\C#\app\obj\Debug\net6.0\app.csproj.AssemblyReference.cache
+E:\Coding\guessing-game\C#\app\obj\Debug\net6.0\app.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\guessing-game\C#\app\obj\Debug\net6.0\app.AssemblyInfoInputs.cache
+E:\Coding\guessing-game\C#\app\obj\Debug\net6.0\app.AssemblyInfo.cs
+E:\Coding\guessing-game\C#\app\obj\Debug\net6.0\app.csproj.CoreCompileInputs.cache
+E:\Coding\guessing-game\C#\app\bin\Debug\net6.0\app.exe
+E:\Coding\guessing-game\C#\app\bin\Debug\net6.0\app.deps.json
+E:\Coding\guessing-game\C#\app\bin\Debug\net6.0\app.runtimeconfig.json
+E:\Coding\guessing-game\C#\app\bin\Debug\net6.0\app.dll
+E:\Coding\guessing-game\C#\app\bin\Debug\net6.0\app.pdb
+E:\Coding\guessing-game\C#\app\obj\Debug\net6.0\app.dll
+E:\Coding\guessing-game\C#\app\obj\Debug\net6.0\refint\app.dll
+E:\Coding\guessing-game\C#\app\obj\Debug\net6.0\app.pdb
+E:\Coding\guessing-game\C#\app\obj\Debug\net6.0\app.genruntimeconfig.cache
+E:\Coding\guessing-game\C#\app\obj\Debug\net6.0\ref\app.dll
