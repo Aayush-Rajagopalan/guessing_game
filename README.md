@@ -8,7 +8,11 @@
 
 
 <!-- PROJECT LOGO -->
-
+<br />
+<div align="center">
+  <a href="https://github.com/Aayush-Rajagopalan/guessing_game">
+    <img src="https://cdn.discordapp.com/attachments/834283323450458122/977241951835398164/Untitled-2022-03-25-18451.png" alt="Logo" width="80" height="80">
+  </a>
 <h3 align="center">Guessing Game</h3>
 
   <p align="center">
